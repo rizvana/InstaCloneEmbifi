@@ -1,8 +1,8 @@
-.App {
+/* .App {
   text-align: center;
-}
-
-.App-logo {
+} */
+ @import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -27,7 +27,13 @@
 .App-link {
   color: #61dafb;
 }
+.home-card{
+  max-width: 500px;
+  height: max-content;
+  margin: 26px auto;
+}
 
+ 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +41,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
